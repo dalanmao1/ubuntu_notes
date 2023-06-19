@@ -1,0 +1,13 @@
+# Target labels
+ doctest
+# Source files and their labels
+/home/nio/workspace/Notes/Ubuntu/Doctest/build/CMakeFiles/doctest
+/home/nio/workspace/Notes/Ubuntu/Doctest/build/CMakeFiles/doctest.rule
+/home/nio/workspace/Notes/Ubuntu/Doctest/build/CMakeFiles/doctest-complete.rule
+/home/nio/workspace/Notes/Ubuntu/Doctest/build/doctest/src/doctest-stamp/doctest-install.rule
+/home/nio/workspace/Notes/Ubuntu/Doctest/build/doctest/src/doctest-stamp/doctest-mkdir.rule
+/home/nio/workspace/Notes/Ubuntu/Doctest/build/doctest/src/doctest-stamp/doctest-download.rule
+/home/nio/workspace/Notes/Ubuntu/Doctest/build/doctest/src/doctest-stamp/doctest-update.rule
+/home/nio/workspace/Notes/Ubuntu/Doctest/build/doctest/src/doctest-stamp/doctest-patch.rule
+/home/nio/workspace/Notes/Ubuntu/Doctest/build/doctest/src/doctest-stamp/doctest-configure.rule
+/home/nio/workspace/Notes/Ubuntu/Doctest/build/doctest/src/doctest-stamp/doctest-build.rule

@@ -1,0 +1,17 @@
+Host 10.110.192.31
+    HostName 10.110.192.31
+    User yoda
+
+Host githost.nevint.com
+
+    User sigan.pan
+
+    IdentityFile ~/.ssh/id_ed25519
+
+Host gerrit.nevint.com gerrit-dc.nioint.com
+
+    User sigan.pan
+
+    Port 29418
+
+    IdentityFile ~/.ssh/id_ed25519

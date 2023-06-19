@@ -1,0 +1,14 @@
+/home/nio/workspace/Notes/Ubuntu/Doctest/build/CMakeFiles/install/strip.dir
+/home/nio/workspace/Notes/Ubuntu/Doctest/build/CMakeFiles/install/local.dir
+/home/nio/workspace/Notes/Ubuntu/Doctest/build/CMakeFiles/install.dir
+/home/nio/workspace/Notes/Ubuntu/Doctest/build/CMakeFiles/list_install_components.dir
+/home/nio/workspace/Notes/Ubuntu/Doctest/build/CMakeFiles/rebuild_cache.dir
+/home/nio/workspace/Notes/Ubuntu/Doctest/build/CMakeFiles/edit_cache.dir
+/home/nio/workspace/Notes/Ubuntu/Doctest/build/CMakeFiles/my_tests.dir
+/home/nio/workspace/Notes/Ubuntu/Doctest/build/doctest/CMakeFiles/install/local.dir
+/home/nio/workspace/Notes/Ubuntu/Doctest/build/doctest/CMakeFiles/install.dir
+/home/nio/workspace/Notes/Ubuntu/Doctest/build/doctest/CMakeFiles/list_install_components.dir
+/home/nio/workspace/Notes/Ubuntu/Doctest/build/doctest/CMakeFiles/rebuild_cache.dir
+/home/nio/workspace/Notes/Ubuntu/Doctest/build/doctest/CMakeFiles/edit_cache.dir
+/home/nio/workspace/Notes/Ubuntu/Doctest/build/doctest/CMakeFiles/doctest_with_main.dir
+/home/nio/workspace/Notes/Ubuntu/Doctest/build/doctest/CMakeFiles/install/strip.dir
