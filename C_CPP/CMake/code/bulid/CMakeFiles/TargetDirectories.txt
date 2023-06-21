@@ -1,0 +1,3 @@
+/home/nio/workspace/Notes/C_CPP/CMake/code/bulid/CMakeFiles/rebuild_cache.dir
+/home/nio/workspace/Notes/C_CPP/CMake/code/bulid/CMakeFiles/edit_cache.dir
+/home/nio/workspace/Notes/C_CPP/CMake/code/bulid/CMakeFiles/myapp.dir

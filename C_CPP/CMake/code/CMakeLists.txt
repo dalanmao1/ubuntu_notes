@@ -5,7 +5,7 @@ project(Test)
 
 set(CMAKE_CXX_FLAGS "${CMAKE_CXX_FLAGS} -00")
 
-add_subdirectory(doctest)
+# add_subdirectory(doctest)
 
 aux_source_directory(. DIR_SRCS)
 

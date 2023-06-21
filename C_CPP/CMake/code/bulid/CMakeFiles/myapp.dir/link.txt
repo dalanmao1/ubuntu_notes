@@ -1,0 +1,1 @@
+/usr/bin/cc   -rdynamic CMakeFiles/myapp.dir/add.c.o CMakeFiles/myapp.dir/div.c.o CMakeFiles/myapp.dir/main.c.o CMakeFiles/myapp.dir/mult.c.o CMakeFiles/myapp.dir/sub.c.o  -o myapp 

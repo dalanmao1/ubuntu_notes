@@ -65,3 +65,7 @@ add_subdirectory(source_dir [binary_dir] [EXCLUDE_FROM_ALL])
 # [] 中的参数为可选项, 如不需要可以不写
 SET(VAR [VALUE] [CACHE TYPE DOCSTRING [FORCE]])
 ```
+
+> find_package
+
+<div align=center> <img src=https://mubaicppnio.oss-cn-shanghai.aliyuncs.com/20230621151341.png width=70%/> </div>
