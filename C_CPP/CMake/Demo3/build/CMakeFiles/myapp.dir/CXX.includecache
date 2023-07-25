@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../math/head.h
+
+/home/nio/workspace/Notes/C_CPP/CMake/Demo3/main.cpp
+cstdlib
+-
+iostream
+-
+config.h
+/home/nio/workspace/Notes/C_CPP/CMake/Demo3/config.h
+head.h
+/home/nio/workspace/Notes/C_CPP/CMake/Demo3/head.h
+math.h
+-
+

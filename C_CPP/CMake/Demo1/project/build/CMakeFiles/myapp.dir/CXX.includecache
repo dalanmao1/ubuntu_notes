@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/nio/workspace/Notes/C_CPP/CMake/Exercise1-Building a Basic Project/project/head.h
+
+/home/nio/workspace/Notes/C_CPP/CMake/Exercise1-Building a Basic Project/project/main.cpp
+cstdlib
+-
+iostream
+-
+TutorialConfig.h
+/home/nio/workspace/Notes/C_CPP/CMake/Exercise1-Building a Basic Project/project/TutorialConfig.h
+head.h
+/home/nio/workspace/Notes/C_CPP/CMake/Exercise1-Building a Basic Project/project/head.h
+

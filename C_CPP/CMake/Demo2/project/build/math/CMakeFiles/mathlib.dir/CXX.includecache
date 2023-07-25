@@ -1,0 +1,34 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/nio/workspace/Notes/C_CPP/CMake/Demo2/project/math/add.cpp
+iostream
+-
+head.h
+/home/nio/workspace/Notes/C_CPP/CMake/Demo2/project/math/head.h
+
+/home/nio/workspace/Notes/C_CPP/CMake/Demo2/project/math/div.cpp
+iostream
+-
+head.h
+/home/nio/workspace/Notes/C_CPP/CMake/Demo2/project/math/head.h
+
+/home/nio/workspace/Notes/C_CPP/CMake/Demo2/project/math/head.h
+
+/home/nio/workspace/Notes/C_CPP/CMake/Demo2/project/math/mult.cpp
+iostream
+-
+head.h
+/home/nio/workspace/Notes/C_CPP/CMake/Demo2/project/math/head.h
+
+/home/nio/workspace/Notes/C_CPP/CMake/Demo2/project/math/sub.cpp
+iostream
+-
+head.h
+/home/nio/workspace/Notes/C_CPP/CMake/Demo2/project/math/head.h
+

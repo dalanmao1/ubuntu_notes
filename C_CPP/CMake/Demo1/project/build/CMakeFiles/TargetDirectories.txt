@@ -1,0 +1,3 @@
+/home/nio/workspace/Notes/C_CPP/CMake/Exercise1-Building a Basic Project/project/build/CMakeFiles/rebuild_cache.dir
+/home/nio/workspace/Notes/C_CPP/CMake/Exercise1-Building a Basic Project/project/build/CMakeFiles/edit_cache.dir
+/home/nio/workspace/Notes/C_CPP/CMake/Exercise1-Building a Basic Project/project/build/CMakeFiles/myapp.dir

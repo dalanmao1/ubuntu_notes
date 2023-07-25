@@ -1,0 +1,6 @@
+/home/nio/workspace/Notes/C_CPP/CMake/Demo3/build/CMakeFiles/rebuild_cache.dir
+/home/nio/workspace/Notes/C_CPP/CMake/Demo3/build/CMakeFiles/edit_cache.dir
+/home/nio/workspace/Notes/C_CPP/CMake/Demo3/build/CMakeFiles/myapp.dir
+/home/nio/workspace/Notes/C_CPP/CMake/Demo3/build/math/CMakeFiles/edit_cache.dir
+/home/nio/workspace/Notes/C_CPP/CMake/Demo3/build/math/CMakeFiles/rebuild_cache.dir
+/home/nio/workspace/Notes/C_CPP/CMake/Demo3/build/math/CMakeFiles/mathlib.dir

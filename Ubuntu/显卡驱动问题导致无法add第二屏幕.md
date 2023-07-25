@@ -40,7 +40,11 @@ sudo ubuntu-drivers autoinstall
 它的作用是自动安装可用的推荐或建议的驱动程序。
 这边要说明一下，命令和ububtu software&update -> Additional Drivers的作用是一样的，都是安装驱动，前者是直接选择最适合的安装，后者是有很多种选择。这边推荐用命令行装，因为我用后者一直装不上。
 
-**一定要重启！！！** 否则会报错：
+有可能会出现这个问题（如果没有就跳过），根据它提供的信息，缺少什么就安装什么
+
+<div align=center> <img src=https://mubaicppnio.oss-cn-shanghai.aliyuncs.com/20230706102514.png width=70%/> </div>
+
+安装后**一定要重启！！！** 否则会报错：
 
 <div align=center> <img src=https://mubaicppnio.oss-cn-shanghai.aliyuncs.com/20230507142417.png width=70%/> </div>
 

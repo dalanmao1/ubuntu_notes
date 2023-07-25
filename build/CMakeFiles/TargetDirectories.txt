@@ -1,0 +1,3 @@
+/home/nio/workspace/Notes/build/CMakeFiles/rebuild_cache.dir
+/home/nio/workspace/Notes/build/CMakeFiles/edit_cache.dir
+/home/nio/workspace/Notes/build/CMakeFiles/myapp.dir

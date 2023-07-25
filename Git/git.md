@@ -5,9 +5,11 @@
   - [第一次运行 Git](#第一次运行-git)
     - [1. 配置用户信息](#1-配置用户信息)
     - [2. 设置默认编辑器](#2-设置默认编辑器)
-  - [Git 基础操作](#git-基础操作)
+  - [Git 基础操作\*](#git-基础操作)
     - [1.提交到本地仓库](#1提交到本地仓库)
     - [2.克隆现有的仓库](#2克隆现有的仓库)
+    - [3.文件状态](#3文件状态)
+  - [ssh](#ssh)
   - [参考文献](#参考文献)
 
 ![](https://images0.cnblogs.com/blog2015/547153/201507/291414318921370.png)
@@ -44,7 +46,7 @@ git config --global user.email baineng.shou@nio.com
 git config --global core.editor emacs
 ```
 
-## Git 基础操作
+## Git 基础操作*
 
 ### 1.提交到本地仓库
 
@@ -93,18 +95,21 @@ git clone https://github.com/xxxx mylib
 
 ### 3.文件状态
 
-<div align=center> <img src=https://mubaicppnio.oss-cn-shanghai.aliyuncs.com/20230516093832.png width=100%/> </div>
+git对于空间的理解非常重要，主要分为 **workspace（本地计算机）、index（暂存区）、local repository（本地仓库）和 remote repository（远程仓库）**
+前三者都是在本地计算机上的，第一个是你能看得见的，其余两者是需要通过命令才可以知道，最后一个是在远程服务器上，比如创建在github上的仓库。它们之间的关系可以表示为：
 
 <div align=center> <img src=https://mubaicppnio.oss-cn-shanghai.aliyuncs.com/20230516101323.png width=100%/> </div>
 
+关于文件的状态，结合上面来理解，**文件处在不同的空间就会有不同的状态**
+
+<div align=center> <img src=https://mubaicppnio.oss-cn-shanghai.aliyuncs.com/20230516093832.png width=100%/> </div>
 
 ## ssh
 
 <div align=center> <img src=https://mubaicppnio.oss-cn-shanghai.aliyuncs.com/20230516170735.png width=70%/> </div>
 
-
 已知密钥文件
- 
+
 ```shell
 cat ~/.ssh/known_hosts
 ```

@@ -1,0 +1,27 @@
+[
+{
+  "directory": "/home/nio/workspace/Notes/build",
+  "command": "/usr/bin/g++     -00 -g   -o CMakeFiles/myapp.dir/add.cpp.o -c /home/nio/workspace/Notes/C_CPP/CMake/code/add.cpp",
+  "file": "/home/nio/workspace/Notes/C_CPP/CMake/code/add.cpp"
+},
+{
+  "directory": "/home/nio/workspace/Notes/build",
+  "command": "/usr/bin/g++     -00 -g   -o CMakeFiles/myapp.dir/div.cpp.o -c /home/nio/workspace/Notes/C_CPP/CMake/code/div.cpp",
+  "file": "/home/nio/workspace/Notes/C_CPP/CMake/code/div.cpp"
+},
+{
+  "directory": "/home/nio/workspace/Notes/build",
+  "command": "/usr/bin/g++     -00 -g   -o CMakeFiles/myapp.dir/main.cpp.o -c /home/nio/workspace/Notes/C_CPP/CMake/code/main.cpp",
+  "file": "/home/nio/workspace/Notes/C_CPP/CMake/code/main.cpp"
+},
+{
+  "directory": "/home/nio/workspace/Notes/build",
+  "command": "/usr/bin/g++     -00 -g   -o CMakeFiles/myapp.dir/mult.cpp.o -c /home/nio/workspace/Notes/C_CPP/CMake/code/mult.cpp",
+  "file": "/home/nio/workspace/Notes/C_CPP/CMake/code/mult.cpp"
+},
+{
+  "directory": "/home/nio/workspace/Notes/build",
+  "command": "/usr/bin/g++     -00 -g   -o CMakeFiles/myapp.dir/sub.cpp.o -c /home/nio/workspace/Notes/C_CPP/CMake/code/sub.cpp",
+  "file": "/home/nio/workspace/Notes/C_CPP/CMake/code/sub.cpp"
+}
+]
